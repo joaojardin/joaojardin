@@ -1,6 +1,13 @@
 ## About Me
 
-👋  Hi there! I'm **João Jardin**, an aspiring Junior .NET Developer based in **Setúbal, Portugal** 🇵🇹.
+👋 Hi there! I'm **João Jardin**, an aspiring .NET Developer based in **Setúbal, Portugal** 🇵🇹. 
+Here are some facts about me:
+
+- 🧪 I have a Laboratory Analysis Technician course;
+- 💻 I was always passionate about computers and programming. Before I went college, I developed a simple guessing game in Python that cemented my passion for programming;
+- 💼 To support myself during college, I worked as a debt collector;
+- 🚀 I'm currently pursuing a career in software development, focusing on .NET technologies.
+
 
 ### 📈 Profile Views
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaojardin&label=Profile%20views&color=0e75b6&style=flat" alt="joaojardin" /> </p>
