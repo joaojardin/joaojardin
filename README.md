@@ -43,3 +43,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joaojardin&" alt="joaojardin" /></p>
 
+### 🛠 Projects
+- **[Workio](https://github.com/joaojardin/Workio)**: Final university project, carried out in a semi-professional context. This project consisted of the development of a collaborative team management platform using C# and ASP .NET Core over a period of 8 months, following the Agile Scrum methodology. It included requirements gathering, sprint planning, and application development, with the integration of unit tests using xUnit and automation tests with Selenium.
+
+- **[Knight-Game](https://github.com/joaojardin/Knight-Game)**: A Common Lisp project showcasing an implementation of the Knight's game, developed as part of an Artificial Intelligence class.
+
