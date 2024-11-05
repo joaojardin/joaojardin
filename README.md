@@ -54,4 +54,5 @@ Here are some facts about me:
 - **[Workio](https://github.com/joaojardin/Workio)**: Final university project, carried out in a semi-professional context. This project consisted of the development of a collaborative team management platform using C# and ASP .NET Core over a period of 8 months, following the Agile Scrum methodology. It included requirements gathering, sprint planning, and application development, with the integration of unit tests using xUnit and automation tests with Selenium.
 
 - **[Knight-Game](https://github.com/joaojardin/Knight-Game)**: A Common Lisp project showcasing an implementation of the Knight's game, developed as part of an Artificial Intelligence class.
+- **[WealthGuard](https://github.com/joaojardin/WealthGuard)**: A personal project that I'm currently developing, aimed at managing personal finances, tracking income, expenses, and savings. It includes features like budget tracking, recurring transactions, and real-time notifications and new features that are currently being tested.
 
