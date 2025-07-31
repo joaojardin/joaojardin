@@ -1,6 +1,6 @@
 ## About Me
 
-👋 Hi there! I'm **João Jardin**, an aspiring .NET Developer based in **Setúbal, Portugal** 🇵🇹. 
+👋 Hi there! I'm **João Jardin**, an aspiring Junior Developer based in **Setúbal, Portugal** 🇵🇹. 
 Here are some facts about me:
 
 - 🧪 I have a Laboratory Analysis Technician course;
